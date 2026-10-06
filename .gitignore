@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+.next/
+out/
+
+# بيئة ومفاتيح — لا تُرفع أبدًا
+.env
+.env.local
+.env.*.local
+
+# ملفات نظام
+.DS_Store
+*.log
